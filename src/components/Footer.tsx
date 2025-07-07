@@ -123,8 +123,8 @@ const Footer = () => {
                 </div>
                 <div className="flex items-center space-x-3">
                   <Mail className="h-5 w-5 text-primary-light" />
-                  <a href="mailto:info@AeroTemiz.com.tr" className="text-gray-300 hover:text-primary-light transition-colors text-sm">
-                    info@AeroTemiz.com.tr
+                  <a href="mailto:aerotemiz@​yahoo.com" className="text-gray-300 hover:text-primary-light transition-colors text-sm">
+                    aerotemiz@yahoo.com
                   </a>
                 </div>
               </div>

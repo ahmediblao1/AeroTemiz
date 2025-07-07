@@ -48,7 +48,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: "E-posta Adresi",
-      details: ["info@AeroTemiz.com.tr"],
+      details: ["aerotemiz@​yahoo.com"],
       subtitle: "24 saat içinde yanıt"
     },
     {

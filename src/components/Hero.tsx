@@ -2,6 +2,7 @@ import React from 'react';
 import { ArrowRight } from 'lucide-react';
 import droneCleaningImage from '../assets/drone-cleaning-1.jpg';
 
+
 const Hero = () => {
   const scrollToContact = () => {
     const element = document.getElementById('contact');
@@ -44,7 +45,7 @@ const Hero = () => {
                 </span>
               </h1>
               <p className="text-xl mb-6 text-gray-100 max-w-2xl mx-auto leading-relaxed">
-                <strong>10+ yıllık deneyim</strong> ile yüksek binalar, cam cepheler ve endüstriyel tesislerin 
+                <strong>3+ yıllık deneyim</strong> ile yüksek binalar, cam cepheler ve endüstriyel tesislerin 
                 profesyonel temizliği. <strong>%100 güvenli</strong> hizmet garantisi.
               </p>
               
@@ -56,7 +57,7 @@ const Hero = () => {
                 </div>
                 <div className="flex items-center gap-2">
                   <div className="w-2 h-2 bg-primary-light rounded-full"></div>
-                  <span className="text-sm font-medium">5 Milyon TL Sigorta</span>
+                  <span className="text-sm font-medium">%100 güvenli</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <div className="w-2 h-2 bg-primary-light rounded-full"></div>
