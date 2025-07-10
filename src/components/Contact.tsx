@@ -241,13 +241,18 @@ const Contact = () => {
               <p className="text-muted-foreground mb-4">
                 Form gönderdiğinizde 2 saat içinde size dönüş yapıyoruz
               </p>
-              <div className="flex items-center space-x-4">
-                <a href="tel:+905517107709" className="btn-corporate">
-                  <Phone className="mr-2 h-4 w-4" />
-                  Hemen Arayın
-                </a>
-                <span className="text-primary font-semibold">+90 551 710 7709</span>
-              </div>
+             <div className="flex items-center space-x-4">
+  <a 
+    href="https://wa.me/905517107709?text=Merhaba,%20drone%20temizlik%20hizmetleriniz%20hakkında%20bilgi%20almak%20istiyorum"
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="btn-corporate"
+  >
+    <Phone className="mr-2 h-4 w-4" />
+WhatsApp İletişime Geç
+  </a>
+  <span className="text-primary font-semibold">+90 551 710 7709</span>
+</div>
             </div>
 
             {/* Contact Details */}
